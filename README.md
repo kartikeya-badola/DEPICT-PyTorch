@@ -5,7 +5,7 @@ Ghasedi Dizaji, K., Herandi, A., Deng, C., Cai, W. and Huang, H., 2017. Deep clu
 
 DEPICT is an unsupervised discriminative clustering algorithm. At each step it performs an expectation maximization where the true density is assumed to be known by approximating the gradient to find a close form solution.
 
-The original paper is implemented in Theano, uses 3 architectures and follows a pretty complicated training pipeling. This implementation is using PyTorch and is a pretty straightforward batch-wise implementation of DEPICT using 2 architectures only. Despite its simplicity, it performs really well.
+The original paper is implemented in Theano, uses 3 architectures and follows a pretty complicated training pipeline. This implementation is using PyTorch and is a pretty straightforward batch-wise implementation of DEPICT using 2 architectures only. Despite its simplicity, it performs really well.
 
 # Visualiztions
 
